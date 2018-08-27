@@ -1,0 +1,19 @@
+Package: jubatus
+Architecture: amd64
+Version: 1.1.0-1
+Priority: extra
+Section: misc
+Maintainer: PFN & NTT <jubatus-team@googlegroups.com>
+Installed-Size: 83844
+Depends: libc6 (>= 2.14), liblog4cxx10v5, libopencv-features2d3.2, libpython3.6
+Filename: pool/jubatus_1.1.0-1_amd64.deb
+Size: 13697484
+MD5sum: 7c2c79fe685e73eb9d5b586d71a860e1
+SHA1: 0c79e1c9e067815042f30479fdc24576846c9e6a
+SHA256: a0fadef43038b973614e9592567790d240d762898a6296bbfd684d9a0c63cb21
+SHA512: 560f02b0b56f11cecefd0b77bb25e9c7b559bb91b3795e17866f25cb3383b4b0ba48a89f0c9b99816ea0eecbfe0e9e157ad4d2d58596b7b333394cbd4e2cac88
+Homepage: http://jubat.us/
+Description: Distributed processing framework and streaming machine learning library
+ Jubatus is a distributed processing framework and streaming machine
+ learning library.
+
